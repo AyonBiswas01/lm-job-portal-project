@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# lm-job-portal-project
+Build a job portal that uses Large Language Models (LLM) to match candidates with jobs based on skills analysis.
+
+>>>>>>> a3a89fc849dfd30a4b02b9da2f88f4a96d6b7dd3
 # LM-Powered Job Portal
 
 This project is a hackathon-ready scaffold for a job portal that uses LLMs to extract skills and match candidates to jobs.
